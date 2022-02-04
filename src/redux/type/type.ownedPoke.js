@@ -1,0 +1,4 @@
+module.exports = {
+  CATCH_POKEMON: 'CATCH_POKEMON',
+  RELEASE_POKEMON: 'RELEASE_POKEMON',
+};
